@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    color: white;
+}
+header{
+    background-color: greenyellow;
+    color: white;
+    padding: 25px;
+}
+
+h2, h4{
+    color: greenyellow;
+}
+h2, h3{
+    text-align: center;
+}
+h4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+main , nav, .contato{
+    width: 1100px;
+    margin: auto;
+}
+.imagem{
+    border-radius: 50%;
+    border: 3px solid greenyellow;
+    left: 640px;
+    position: absolute;
+    margin-top: 15px;
+}
+a{
+    font-family: arial;
+    text-decoration: none;
+    color: black;
+}
+li{
+    
+    margin-left: 10px;
+    display: inline-block;
+}
+footer{
+    background-color: greenyellow;
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+    padding: 25px;
+}
+
+.contato{
+    border: 3px solid greenyellow;
+    text-align: center;
+    margin-top: 30px;
+    width: 300px;
+    padding: 20px;
+}
+
+img{
+    border: solid 3px greenyellow;
+}
+
+.final{
+    margin-top: 170px;
+}
+
+button{
+    padding: 5px;
+}
